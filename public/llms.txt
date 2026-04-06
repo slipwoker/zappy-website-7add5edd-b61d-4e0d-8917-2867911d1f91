@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חולצות כדורגל מקוריות מהקבוצות הגדולות בעולם מחכות לך! מכירת חולצות כדורגל נדירות, וינטג&#39; ואייקוניות במחירים שלא תמצא בשום מקום אחר. הזמן עכשיו!
+
+### תכונות
+https://example.com/features
+גלה מה הופך את Legendary Kits לשונה מכולם: חולצות כדורגל מקוריות לרכישה עם רקמה מושלמת, בדים פרימיום ועיצובים אייקוניים מכל הזמנים. בדוק את היתרונות שלנו!
+
+### אודות
+https://example.com/about
+Legendary Kits נולדה מאהבה עמוקה לכדורגל ולהיסטוריה שלו. אנו מתמחים במכירת חולצות כדורגל נדירות וקלאסיות מהקבוצות הגדולות, ומביאים לך פיסת היסטוריה ישירות לארון.
+
+### צור קשר
+https://example.com/contact
+מחפש חולצת קבוצת כדורגל אירופאית ספציפית? צוות Legendary Kits כאן לעזור! צור קשר עכשיו ונמצא עבורך את החולצה המושלמת מתוך מאגר חולצות הכדורגל המקוריות שלנו.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Legendary Kits
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Legendary Kits
+
+### Category
+https://example.com/category/:slug
+מוצרים - Legendary Kits
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
